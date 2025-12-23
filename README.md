@@ -56,6 +56,6 @@ No dia a dia, foco mais no desenvolvimento **Back-end**, mas estou expandindo me
 
 ### 🐍 Snake Game (Contribuições)
 
-<img src="https://raw.githubusercontent.com/lailasam/lailasam/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lailasam/lailasam/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 <br clear="both">
