@@ -1,7 +1,7 @@
 <h2 align="left">Olá! Meu nome é Láila Lemos! 👋</h2>
 
 ### 🎓 Sobre Mim
-Sou estudante de **Ciência da Computação** (atualmente no 5º semestre). Sou apaixonada por tecnologia e busco focar em projetos que gerem impacto real através da **resolução de problemas sociais**.
+Sou estudante de **Ciência da Computação** (atualmente no 6º semestre). Sou apaixonada por tecnologia e busco focar em projetos que gerem impacto real através da **resolução de problemas sociais**.
 
 No dia a dia, foco mais no desenvolvimento **Back-end**, mas estou expandindo meus horizontes estudando **Front-end** para me tornar uma desenvolvedora mais completa.
 
